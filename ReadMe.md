@@ -11,5 +11,5 @@ game sessions, so no worries!
 
 ### Youtube:
 
-[![Video](Screenshots/youTube.png)](https://www.youtube.com/watch?v=xuSEaxbVmYc)
-
+[![Video](ScreenShots/youTube.png)](https://www.youtube.com/watch?v=xuSEaxbVmYc)
+ 
